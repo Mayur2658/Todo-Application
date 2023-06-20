@@ -1,2 +1,2 @@
 # Todo-Application
-A ToDo Application with restful API services
+A ToDo Application with Restful API services using Java, SpringBoot
